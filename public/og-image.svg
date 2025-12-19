@@ -1,0 +1,9 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="32" fill="#DAD7CD"/>
+  <rect x="72" y="80" width="1056" height="470" rx="28" fill="#A3B18A" opacity="0.95"/>
+  <text x="140" y="210" fill="#344E41" font-family="'Inter', 'Segoe UI', sans-serif" font-size="64" font-weight="700">Elías Haig Alves</text>
+  <text x="140" y="270" fill="#3A5A40" font-family="'Inter', 'Segoe UI', sans-serif" font-size="28" font-weight="500">Science, engineering, and storytelling for impact</text>
+  <rect x="140" y="320" width="460" height="16" rx="8" fill="#344E41" opacity="0.9"/>
+  <rect x="140" y="350" width="360" height="12" rx="6" fill="#588157" opacity="0.85"/>
+  <rect x="140" y="380" width="420" height="12" rx="6" fill="#3A5A40" opacity="0.75"/>
+</svg>
